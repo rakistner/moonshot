@@ -1,0 +1,1504 @@
+	YEAR	CONDITION	COUNT
+0	2017.0	Breast Cancer	41
+1	2017.0	Lymphoma	23
+2	2017.0	Leukemia	18
+3	2017.0	Prostate Cancer	18
+4	2017.0	Pancreatic Cancer	11
+5	2017.0	Acute Lymphoblastic Leukemia	9
+6	2017.0	Myelodysplastic Syndromes	9
+7	2017.0	Melanoma	8
+8	2017.0	Neuroblastoma	8
+9	2017.0	Acute Myeloid Leukemia	7
+10	2017.0	Cancer	7
+11	2017.0	Chronic Lymphocytic Leukemia	7
+12	2017.0	Head and Neck Cancer	7
+13	2017.0	Sarcoma	7
+14	2017.0	Brain and Central Nervous System Tumors	6
+15	2017.0	Esophageal Cancer	6
+16	2017.0	Glioblastoma Multiforme	6
+17	2017.0	Myelodysplastic Syndrome	6
+18	2017.0	Colorectal Cancer	5
+19	2017.0	Liver Cancer	5
+20	2017.0	Lung Cancer	5
+21	2017.0	Multiple Myeloma	5
+22	2017.0	Pancreas Cancer	5
+23	2017.0	Cervical Cancer	4
+24	2017.0	Gastric Cancer	4
+25	2017.0	Glioma	4
+26	2017.0	Hodgkin Lymphoma	4
+27	2017.0	Metastatic Breast Cancer	4
+28	2017.0	Metastatic Colorectal Cancer	4
+29	2017.0	Non-Hodgkin Lymphoma	4
+30	2017.0	Non-Hodgkin's Lymphoma	4
+31	2017.0	Non-small Cell Lung Cancer	4
+32	2017.0	Ovarian Cancer	4
+33	2017.0	Pain	4
+34	2017.0	Rhabdomyosarcoma	4
+35	2017.0	Small Lymphocytic Lymphoma	4
+36	2017.0	Acute Leukemia	3
+37	2017.0	Acute Myelogenous Leukemia	3
+38	2017.0	Acute Myeloid Leukemia (AML)	3
+39	2017.0	Anaplastic Astrocytoma	3
+40	2017.0	Brain Cancer	3
+41	2017.0	Chronic Myelogenous Leukemia	3
+42	2017.0	Diffuse Intrinsic Pontine Glioma	3
+43	2017.0	Diffuse Large B Cell Lymphoma	3
+44	2017.0	Follicular Lymphoma	3
+45	2017.0	Germ Cell Tumors	3
+46	2017.0	Hodgkin's Lymphoma	3
+47	2017.0	Lymphoblastic Lymphoma	3
+48	2017.0	Malignant Melanoma	3
+49	2017.0	Medulloblastoma	3
+50	2017.0	Myelodysplasia	3
+51	2017.0	Neoplasms	3
+52	2017.0	Neuroendocrine Tumors	3
+53	2017.0	Prostatic Neoplasms	3
+54	2017.0	Retinoblastoma	3
+55	2017.0	Solid Tumor	3
+56	2017.0	Stage IV Breast Cancer	3
+57	2017.0	T-Cell Lymphoma	3
+58	2017.0	Acute Myelocytic Leukemia	2
+59	2017.0	Adenocarcinoma of the Lung	2
+60	2017.0	Bladder Cancer	2
+61	2017.0	Brain Metastasis	2
+62	2017.0	Brain Neoplasms	2
+63	2017.0	Brain Tumor, Recurrent	2
+64	2017.0	Breast Neoplasms	2
+65	2017.0	Burkitt's Lymphoma	2
+66	2017.0	Cancer of Head and Neck	2
+67	2017.0	Carcinoma, Non-Small-Cell Lung	2
+68	2017.0	Carcinoma, Squamous Cell of Head and Neck	2
+69	2017.0	Castration-resistant Prostate Cancer	2
+70	2017.0	Central Nervous System Embryonal Tumor	2
+71	2017.0	Cervical Intraepithelial Neoplasia (CIN 2/3)	2
+72	2017.0	Chronic Myeloproliferative Disorders	2
+73	2017.0	Colon Cancer	2
+74	2017.0	Fallopian Tube Cancer	2
+75	2017.0	Germ Cell Tumor	2
+76	2017.0	Glioblastoma	2
+77	2017.0	Graft Versus Host Disease	2
+78	2017.0	HPV16+	2
+79	2017.0	Hodgkin's Disease	2
+80	2017.0	Juvenile Myelomonocytic Leukemia	2
+81	2017.0	Kidney Cancer	2
+82	2017.0	Leukemia, Myelocytic, Acute	2
+83	2017.0	Lymphangioleiomyomatosis	2
+84	2017.0	Lymphoma, B-Cell	2
+85	2017.0	Lymphoma, Follicular	2
+86	2017.0	MDS	2
+87	2017.0	Malignant Gliomas	2
+88	2017.0	Marginal Zone B-Cell Lymphoma	2
+89	2017.0	Metastatic Cancer	2
+90	2017.0	Metastatic Melanoma	2
+91	2017.0	Multiple Myeloma and Plasma Cell Neoplasm	2
+92	2017.0	Myelodysplastic Syndrome (MDS)	2
+93	2017.0	Myelofibrosis	2
+94	2017.0	Neuroectodermal Tumors, Primitive	2
+95	2017.0	Neurofibromatosis Type 2	2
+96	2017.0	Pancreatic Adenocarcinoma	2
+97	2017.0	Pancreatic Neoplasms	2
+98	2017.0	Rectal Cancer	2
+99	2017.0	Recurrent Breast Cancer	2
+100	2017.0	Recurrent Glioblastoma	2
+101	2017.0	Recurrent Non-small Cell Lung Cancer	2
+102	2017.0	Recurrent Ovarian Cancer	2
+103	2017.0	Severe Aplastic Anemia	2
+104	2017.0	Soft Tissue Sarcoma	2
+105	2017.0	Squamous Cell Carcinoma	2
+106	2017.0	Squamous Cell Carcinoma of the Head and Neck	2
+107	2017.0	Stage IV Prostate Cancer	2
+108	2017.0	Triple Negative Breast Cancer	2
+109	2017.0	Tuberous Sclerosis Complex	2
+110	2017.0	Urothelial Cancer	2
+111	2017.0	Wilms Tumor	2
+112	2017.0	 Adverse Effect	1
+113	2017.0	 Breast Prosthesis, Infection or Inflammation	1
+114	2017.0	AML	1
+115	2017.0	Acquired Immunodeficiency Syndrome	1
+116	2017.0	Acute Granulocytic Leukemia	1
+117	2017.0	Acute Leukemias	1
+118	2017.0	Acute Lymphoblastic Leukemia in Complete Remission	1
+119	2017.0	Acute Lymphocytic Leukemia (ALL)	1
+120	2017.0	Acute Lymphoid Leukemia	1
+121	2017.0	Acute Non-Lymphocytic Leukemia	1
+122	2017.0	Adenocarcinoma	1
+123	2017.0	Adenocarcinoma of the Gastroesophageal Junction	1
+124	2017.0	Adenocarcinoma of the Prostate	1
+125	2017.0	Adenocarcinoma of the Rectum	1
+126	2017.0	Adenoidcystic Carcinoma	1
+127	2017.0	Adult Brain Tumor	1
+128	2017.0	Adult Diffuse Large B-Cell Lymphoma	1
+129	2017.0	Adult Giant Cell Glioblastoma	1
+130	2017.0	Adult Glioblastoma	1
+131	2017.0	Adult Gliosarcoma	1
+132	2017.0	Advanced HER2-positive Breast Cancer	1
+133	2017.0	Advanced Non-small Cell Lung Cancer	1
+134	2017.0	Advanced Non-squamous Non-Small Cell Lung Cancer	1
+135	2017.0	Advanced Solid Tumors, Non-small Cell Lung Cancer	1
+136	2017.0	Allogeneic Transplant	1
+137	2017.0	Ameloblastoma	1
+138	2017.0	Anal Cancer	1
+139	2017.0	Anastomotic Leak	1
+140	2017.0	Anesthesia	1
+141	2017.0	Arthralgia	1
+142	2017.0	Asymptomatic or Low Symptomatic Brain Metastasis in Breast Cancer	1
+143	2017.0	Atherosclerosis	1
+144	2017.0	Atypical Ductal Breast Hyperplasia	1
+145	2017.0	Atypical Teratoid/Rhabdoid Tumor (AT/RT)	1
+146	2017.0	Autoimmune Diseases	1
+147	2017.0	B-Cell Lymphoma Originating in the CNS	1
+148	2017.0	B-cell Adult Acute Lymphoblastic Leukemia	1
+149	2017.0	BRAF Gene Mutation	1
+150	2017.0	BRCA1 Gene Mutation	1
+151	2017.0	BRCA2 Gene Mutation	1
+152	2017.0	Basal Cell Carcinoma	1
+153	2017.0	Bladder Carcinoma	1
+154	2017.0	Bleeding	1
+155	2017.0	Bone Metastases	1
+156	2017.0	Bone Mineral Density Quantitative Trait Locus 3	1
+157	2017.0	Borderline Resectable Pancreatic Cancer	1
+158	2017.0	Brain Metastases	1
+159	2017.0	Brain Metastases From HER2 and Breast Cancer	1
+160	2017.0	Brain Stem Glioma	1
+161	2017.0	Brain Tumor	1
+162	2017.0	Brain Tumor - Metastatic	1
+163	2017.0	Brainstem Glioma	1
+164	2017.0	Breast Cancer Prevention	1
+165	2017.0	Breast Cancer Stage IV	1
+166	2017.0	Breast Neoplasm	1
+167	2017.0	CNS Tumors	1
+168	2017.0	COPD	1
+169	2017.0	Cancer Malignancies	1
+170	2017.0	Cancer of Nasopharynx	1
+171	2017.0	Cancer of the Breast	1
+172	2017.0	Cancer of the Pancreas	1
+173	2017.0	Cancer-related Cognitive Difficulties	1
+174	2017.0	Carcinoid Tumors	1
+175	2017.0	Carcinoma of Larynx	1
+176	2017.0	Carcinoma of the Breast	1
+177	2017.0	Carcinoma, Squamous	1
+178	2017.0	Cardiovascular Disease	1
+179	2017.0	Castrate Resistant Prostate Cancer	1
+180	2017.0	Castration Resistant Prostate Cancer	1
+181	2017.0	Chediak Higashi Syndrome	1
+182	2017.0	Chemo Brain	1
+183	2017.0	Chemo Fog	1
+184	2017.0	Chemobrain	1
+185	2017.0	Chemotherapy Naive Prostate Cancer	1
+186	2017.0	Chemotherapy-related Cognitive Impairment	1
+187	2017.0	Childhood Germ Cell Tumor	1
+188	2017.0	Childhood Lymphoma	1
+189	2017.0	Childhood Solid Tumor	1
+190	2017.0	Cholangiocarcinoma	1
+191	2017.0	Choroid Plexus Tumors	1
+192	2017.0	Chronic Granulomatous Disease	1
+193	2017.0	Chronic Lymphocytic Leukemia (CLL)	1
+194	2017.0	Chronic Myelocytic Leukemia	1
+195	2017.0	Chronic Myeloid Leukemia	1
+196	2017.0	Chronic Rhinosinusitis Without Nasal Polyps	1
+197	2017.0	Colonic Cancer	1
+198	2017.0	Colorectal Cancer Metastatic	1
+199	2017.0	Complications	1
+200	2017.0	Cutaneous Lymphoma	1
+201	2017.0	Cutaneous T Cell Lymphoma	1
+202	2017.0	Cystadenoma, Mucinous	1
+203	2017.0	Deficiency of Vitamin D3	1
+204	2017.0	Dementia	1
+205	2017.0	Depression	1
+206	2017.0	Desmoid Tumor	1
+207	2017.0	Desmoplastic Small Round Cell Tumor	1
+208	2017.0	Diamond Blackfan Anemia	1
+209	2017.0	Diffuse Large B-Cell Lymphoma	1
+210	2017.0	Diffuse Large B-cell Lymphoma	1
+211	2017.0	Diffuse Large Cell Lymphoma Relapsed/Refractory	1
+212	2017.0	Diffuse, Large B-Cell, Lymphoma	1
+213	2017.0	Disseminated Neuroblastoma	1
+214	2017.0	Ductal Breast Carcinoma in Situ	1
+215	2017.0	Ductal Carcinoma in Situ	1
+216	2017.0	Dyskeratosis Congenita	1
+217	2017.0	EWINGS SARCOMA	1
+218	2017.0	Early Invasive Cervical Squamous Cell Carcinoma	1
+219	2017.0	Early Stage Breast Cancer	1
+220	2017.0	Endometrial Cancer	1
+221	2017.0	Epitheliod Malignant Pleural Mesothelioma	1
+222	2017.0	Erectile Dysfunction	1
+223	2017.0	Esophageal Neoplasms	1
+224	2017.0	Ewing Sarcoma	1
+225	2017.0	Ewing's Family Tumors	1
+226	2017.0	Extensive Stage Small Cell Lung Cancer	1
+227	2017.0	Extrahepatic Bile Duct Cancer	1
+228	2017.0	Fallopian Tube Carcinoma	1
+229	2017.0	Fanconi Anemia	1
+230	2017.0	Fatigue Related to Cancer Treatment	1
+231	2017.0	Fibrillary Astrocytoma of Brain	1
+232	2017.0	Follicular Thyroid Cancer Lymph Node Metastasis	1
+233	2017.0	Functional Disability	1
+234	2017.0	Gallbladder Cancer	1
+235	2017.0	Gastrointestinal Cancer	1
+236	2017.0	Gastrointestinal Cancers	1
+237	2017.0	Gastrointestinal Stromal Tumor	1
+238	2017.0	Gene Mutation	1
+239	2017.0	Genitourinary Cancer	1
+240	2017.0	Genitourinary Cancers	1
+241	2017.0	Germline Mutation Carrier	1
+242	2017.0	Glanzmann Thrombasthenia	1
+243	2017.0	Glial Cell Tumors	1
+244	2017.0	Glioblastoma - Category	1
+245	2017.0	Glioblastoma Multiforme of Brain	1
+246	2017.0	Glioma - Recurrent Grade II	1
+247	2017.0	Glioma of Brainstem	1
+248	2017.0	Gliomatosis Cerebri	1
+249	2017.0	Gliosarcoma	1
+250	2017.0	Graft-Versus-Host Disease	1
+251	2017.0	Graves' Disease	1
+252	2017.0	Gynecologic Cancer	1
+253	2017.0	Gynecologic Cancers	1
+254	2017.0	HER-2 Positive Breast Cancer	1
+255	2017.0	HER2 Positive Untreated Metastatic Breast Cancer	1
+256	2017.0	HPV Positive Oropharyngeal Squamous Cell Carcinoma	1
+257	2017.0	Head and Neck Cancers	1
+258	2017.0	Heart Disease	1
+259	2017.0	Hematologic Malignancies	1
+260	2017.0	Hematological Malignancies	1
+261	2017.0	Hematopoietic Stem Cells	1
+262	2017.0	Hemoglobinuria, Paroxysmal Nocturnal (PNH)	1
+263	2017.0	Hemophagocytic Lymphohistiocytosis	1
+264	2017.0	Hepatoblastoma	1
+265	2017.0	Hepatocellular Carcinoma	1
+266	2017.0	Her 2 Positive Breast Cancer	1
+267	2017.0	High Grade Malignant Neoplasm	1
+268	2017.0	High Risk Prostate Cancer	1
+269	2017.0	High Risk WHO Grade II Glioma	1
+270	2017.0	High-grade Meningioma	1
+271	2017.0	Histiocytic Sarcoma (HS)	1
+272	2017.0	Histiocytoses Erdheim-chester Disease	1
+273	2017.0	Hodgkin Disease	1
+274	2017.0	Hodgkin or Non-Hodgkin Lymphoma	1
+275	2017.0	Hot Flashes	1
+276	2017.0	Hot Flushes	1
+277	2017.0	Human Epidermal Growth Factor 2 Negative Carcinoma of Breast	1
+278	2017.0	Hurler Syndrome	1
+279	2017.0	Hypopharyngeal Cancer	1
+280	2017.0	Inflammatory Breast Cancer	1
+281	2017.0	Inflammatory Breast Carcinoma	1
+282	2017.0	Intraocular Lymphoma	1
+283	2017.0	Invasive Breast Cancer	1
+284	2017.0	Invasive Breast Cancer (Stage I-III)	1
+285	2017.0	Irradiation	1
+286	2017.0	JMML	1
+287	2017.0	Juvenile Myelomonocytic Leukemia (JMML)	1
+288	2017.0	Kaposiform Hemangioendothelioma (KHE)	1
+289	2017.0	Kasabach-Merritt Syndrome	1
+290	2017.0	Knee Pain Chronic	1
+291	2017.0	Langerhans Cell Histiocytosis (LCH)	1
+292	2017.0	Larynx	1
+293	2017.0	Leukemia, Acute Lymphocytic (ALL)	1
+294	2017.0	Leukemia, Acute Myelogenous	1
+295	2017.0	Leukemia, Lymphocytic, Acute	1
+296	2017.0	Leukemia, Lymphocytic, Chronic	1
+297	2017.0	Leukemia, Myeloid, Acute(AML)	1
+298	2017.0	Leukemia, Myeloid, Chronic	1
+299	2017.0	Leukemia, Myeloid, Chronic(CML)	1
+300	2017.0	Leukemias	1
+301	2017.0	Leukocyte Adhesion Deficiency	1
+302	2017.0	Limited Stage Small Cell Lung Cancer	1
+303	2017.0	Lobular Breast Carcinoma in Situ	1
+304	2017.0	Lobular Carcinoma	1
+305	2017.0	Lobular Carcinoma in Situ	1
+306	2017.0	Localized Pancreas Cancer	1
+307	2017.0	Lymphoblastic Lymphoma in Complete Remission	1
+308	2017.0	Lymphoma, Large B-Cell, Diffuse	1
+309	2017.0	Lymphoma, Non-Hodgkin	1
+310	2017.0	Lymphoma, Non-Hodgkin (NHL)	1
+311	2017.0	Lymphomas	1
+312	2017.0	Lymphoplasmacytic Lymphoma	1
+313	2017.0	Lynch Syndrome	1
+314	2017.0	MTOR	1
+315	2017.0	Malignancies	1
+316	2017.0	Malignant Glioma	1
+317	2017.0	Malignant Lymphoma - Lymphoplasmacytic	1
+318	2017.0	Malignant Neoplasm of Female Breast	1
+319	2017.0	Mantle Cell Lymphoma	1
+320	2017.0	Mantle Cell Lymphoma Recurrent	1
+321	2017.0	Mantle-Cell Lymphoma	1
+322	2017.0	Mature B-Cell Lymphoma	1
+323	2017.0	Medulloblastoma, Childhood	1
+324	2017.0	Metastatic Castration-resistant Prostate Cancer	1
+325	2017.0	Metastatic Hormone-sensitive Prostate Cancer	1
+326	2017.0	Metastatic Invasive Breast Cancer	1
+327	2017.0	Metastatic Medullary Thyroid Cancer	1
+328	2017.0	Metastatic Osteosarcoma	1
+329	2017.0	Metastatic Pancreatic Cancer	1
+330	2017.0	Metastatic Pheochromocytoma	1
+331	2017.0	Metastatic Renal Cell Carcinoma	1
+332	2017.0	Metastatic Sarcoma	1
+333	2017.0	Metastatic Triple Negative Breast Cancer	1
+334	2017.0	Mixed Oligodendroglioma-Astrocytoma	1
+335	2017.0	Mixed Phenotype Acute Leukemia in Complete Remission	1
+336	2017.0	Myeloid Hematological Malignancies	1
+337	2017.0	Myeloma	1
+338	2017.0	NF1	1
+339	2017.0	Nausea	1
+340	2017.0	Neoplasms Pancreatic	1
+341	2017.0	Neoplasms, Esophageal	1
+342	2017.0	Neoplasms, Head and Neck	1
+343	2017.0	Neurofibromatosis	1
+344	2017.0	Neuropathic Pain	1
+345	2017.0	Neuropathy	1
+346	2017.0	Nicotine Dependence	1
+347	2017.0	Non Small Cell Lung Cancer	1
+348	2017.0	Non-Melanoma Skin Cancers	1
+349	2017.0	Non-Small Cell Lung Cancer	1
+350	2017.0	Non-Small Cell Lung Cancer (NSCLC)	1
+351	2017.0	Non-hodgkin's Lymphoma	1
+352	2017.0	Non-metastatic Pancreas Cancer	1
+353	2017.0	Nonneoplastic Condition	1
+354	2017.0	Ocular Melanoma	1
+355	2017.0	Oropharyngeal Cancer	1
+356	2017.0	Oropharyngeal Neoplasms	1
+357	2017.0	Osteoarthritis	1
+358	2017.0	Osteoporosis	1
+359	2017.0	Osteosarcoma	1
+360	2017.0	Pancreatic Cancer Metastatic	1
+361	2017.0	Pancreatic Cyst	1
+362	2017.0	Pancreatic Ductal Carcinoma	1
+363	2017.0	Pancreatic Intraductal Papillary-Mucinous Neoplasm	1
+364	2017.0	Papillary Carcinoma of Thyroid Metastatic to Regional Lymph Node	1
+365	2017.0	Papillary Mucinous Cystadenoma, Borderline Malignancy	1
+366	2017.0	Paraganglioma	1
+367	2017.0	Pediatric Cancer	1
+368	2017.0	Pediatric Progressive Low-grade Gliomas	1
+369	2017.0	Pediatric Recurrent Progressive Low-grade Gliomas	1
+370	2017.0	Peripheral Nervous System Diseases	1
+371	2017.0	Peripheral T-cell Lymphoma	1
+372	2017.0	Peritoneal Cancer	1
+373	2017.0	Peutz-Jeghers Syndrome	1
+374	2017.0	Pheochromocytoma	1
+375	2017.0	Pilomyxoid Astrocytoma	1
+376	2017.0	Pituitary Adenomas	1
+377	2017.0	Plasma Cell Leukemia	1
+378	2017.0	Plasma Cell Neoplasm	1
+379	2017.0	Platinum Sensitive Ovarian Cancer	1
+380	2017.0	Plexiform Neurofibromas	1
+381	2017.0	Post Transplant Lymphoproliferative Disorder	1
+382	2017.0	Primary Malignant Brain Neoplasms	1
+383	2017.0	Primary Mediastinal (Thymic) Large B-cell Lymphoma	1
+384	2017.0	Primary Peritoneal Cancer	1
+385	2017.0	Primary Peritoneal Carcinoma	1
+386	2017.0	Progressive Vestibular Schwannomas	1
+387	2017.0	Progressive or Refractory High-Grade Glioma	1
+388	2017.0	Prolactinomas	1
+389	2017.0	Prolymphocytic Leukemia	1
+390	2017.0	Prostate Adenocarcinoma	1
+391	2017.0	Radiation Necrosis	1
+392	2017.0	Radiation Pneumonitis	1
+393	2017.0	Recurrent Adult Brain Tumor	1
+394	2017.0	Recurrent B-Cell Childhood Acute Lymphoblastic Leukemia	1
+395	2017.0	Recurrent Childhood B-Lymphoblastic Lymphoma	1
+396	2017.0	Recurrent Glioma	1
+397	2017.0	Recurrent Melanoma	1
+398	2017.0	Recurrent Nasopharynx Carcinoma	1
+399	2017.0	Recurrent Neuroblastoma	1
+400	2017.0	Recurrent Osteosarcoma	1
+401	2017.0	Recurrent Prostate Cancer	1
+402	2017.0	Recurrent Small Cell Lung Cancer	1
+403	2017.0	Recurrent/Post-Chemotherapy WHO Grade II Glioma	1
+404	2017.0	Recurrent/Refractory CNS	1
+405	2017.0	Refractory Acute Myeloid Leukemia	1
+406	2017.0	Refractory T-Cell Lymphoma	1
+407	2017.0	Relapsed Acute Myeloid Leukemia	1
+408	2017.0	Relapsed Neuroblastoma	1
+409	2017.0	Relapsed T-Cell Lymphoma	1
+410	2017.0	Relapsed/Refractory Acute Myeloid Leukemia	1
+411	2017.0	Relapsed/Refractory Indolent B Cell Non-Hodgkin Lymphomas	1
+412	2017.0	Renal Tumors	1
+413	2017.0	Resectable Pancreatic Cancer	1
+414	2017.0	Resectable Pancreatic Cancers	1
+415	2017.0	Rheumatoid Arthritis	1
+416	2017.0	SOLID TUMORS	1
+417	2017.0	Sarcoma, Ewing	1
+418	2017.0	Sarcoma, Myeloid	1
+419	2017.0	Severe Congenital Neutropenia	1
+420	2017.0	Shwachman Diamond Syndrome	1
+421	2017.0	Small Cell Lung Cancer	1
+422	2017.0	Soft Tissue Metastases	1
+423	2017.0	Solid Organ Malignancies	1
+424	2017.0	Solid Tumors	1
+425	2017.0	Squamous Cell Carcinoma of the Skin	1
+426	2017.0	Stage I-III Colon Cancer	1
+427	2017.0	Stage IA Breast Cancer	1
+428	2017.0	Stage IB Breast Cancer	1
+429	2017.0	Stage II Breast Cancer	1
+430	2017.0	Stage II Childhood Hodgkin Lymphoma	1
+431	2017.0	Stage II Rectal Cancer	1
+432	2017.0	Stage IIA Prostate Cancer	1
+433	2017.0	Stage IIB Prostate Cancer	1
+434	2017.0	Stage III Childhood Hodgkin Lymphoma	1
+435	2017.0	Stage III Prostate Cancer	1
+436	2017.0	Stage III Rectal Cancer	1
+437	2017.0	Stage IIIA Breast Cancer	1
+438	2017.0	Stage IIIA Melanoma	1
+439	2017.0	Stage IIIA Non-small Cell Lung Cancer	1
+440	2017.0	Stage IIIB Breast Cancer	1
+441	2017.0	Stage IIIB Melanoma	1
+442	2017.0	Stage IIIB Non-small Cell Lung Cancer	1
+443	2017.0	Stage IIIC Breast Cancer	1
+444	2017.0	Stage IIIC Melanoma	1
+445	2017.0	Stage IV Childhood Hodgkin Lymphoma	1
+446	2017.0	Stage IV Colon Cancer With Resectable Liver Metastases	1
+447	2017.0	Stage IV Melanoma	1
+448	2017.0	Stage IV Non-small Cell Lung Cancer	1
+449	2017.0	Stage, Colon Cancer	1
+450	2017.0	Stomach Cancer	1
+451	2017.0	Stroke	1
+452	2017.0	Supra-tentorial Primative Neuro-Ectodermal Tumor (PNET)	1
+453	2017.0	Systemic Inflammatory Process	1
+454	2017.0	T-cell Adult Acute Lymphoblastic Leukemia	1
+455	2017.0	TSC1	1
+456	2017.0	TSC2	1
+457	2017.0	Teratoma	1
+458	2017.0	Testicular Neoplasms	1
+459	2017.0	Thalassemia	1
+460	2017.0	Thoracic Cancers	1
+461	2017.0	Thrombocytopenia	1
+462	2017.0	Thyroid Cancer	1
+463	2017.0	Triple-negative Breast Cancer	1
+464	2017.0	Tufted Angioma	1
+465	2017.0	UV Ray Skin Damage	1
+466	2017.0	Unresectable Locally Advanced Invasive Breast Cancer	1
+467	2017.0	Unspecified Adult Solid Tumor, Protocol Specific	1
+468	2017.0	Uterine Cervix Cancer	1
+469	2017.0	Venous Thrombosis	1
+470	2017.0	Vestibular Schwannomas	1
+471	2017.0	Vomiting	1
+472	2017.0	Waldenstrom Macroglobulinemia	1
+473	2017.0	Waldenstrom's Macroglobulinemia	1
+474	2017.0	Wiskott-Aldrich Syndrome	1
+475	2018.0	Breast Cancer	19
+476	2018.0	Prostate Cancer	13
+477	2018.0	Lymphoma	12
+478	2018.0	Leukemia	8
+479	2018.0	Neuroblastoma	8
+480	2018.0	Acute Lymphoblastic Leukemia	7
+481	2018.0	Chronic Lymphocytic Leukemia	7
+482	2018.0	Acute Myeloid Leukemia	6
+483	2018.0	Pancreatic Cancer	5
+484	2018.0	Melanoma	4
+485	2018.0	Myelodysplastic Syndrome	4
+486	2018.0	Pancreas Cancer	4
+487	2018.0	Rhabdomyosarcoma	4
+488	2018.0	Sarcoma	4
+489	2018.0	Small Lymphocytic Lymphoma	4
+490	2018.0	Acute Myeloid Leukemia (AML)	3
+491	2018.0	Cancer	3
+492	2018.0	Chronic Myelogenous Leukemia	3
+493	2018.0	Colorectal Cancer	3
+494	2018.0	Diffuse Large B Cell Lymphoma	3
+495	2018.0	Esophageal Cancer	3
+496	2018.0	Glioblastoma Multiforme	3
+497	2018.0	Glioma	3
+498	2018.0	Head and Neck Cancer	3
+499	2018.0	Hodgkin's Lymphoma	3
+500	2018.0	Lymphoblastic Lymphoma	3
+501	2018.0	Medulloblastoma	3
+502	2018.0	Metastatic Breast Cancer	3
+503	2018.0	Metastatic Colorectal Cancer	3
+504	2018.0	Myelodysplasia	3
+505	2018.0	Non-Hodgkin Lymphoma	3
+506	2018.0	Ovarian Cancer	3
+507	2018.0	Retinoblastoma	3
+508	2018.0	Acute Leukemia	2
+509	2018.0	Acute Myelocytic Leukemia	2
+510	2018.0	Anaplastic Astrocytoma	2
+511	2018.0	Brain Neoplasms	2
+512	2018.0	Brain Tumor, Recurrent	2
+513	2018.0	Brain and Central Nervous System Tumors	2
+514	2018.0	Breast Neoplasms	2
+515	2018.0	Burkitt's Lymphoma	2
+516	2018.0	Carcinoma, Squamous Cell of Head and Neck	2
+517	2018.0	Cervical Cancer	2
+518	2018.0	Colon Cancer	2
+519	2018.0	Fallopian Tube Cancer	2
+520	2018.0	Follicular Lymphoma	2
+521	2018.0	Germ Cell Tumor	2
+522	2018.0	Graft Versus Host Disease	2
+523	2018.0	Hodgkin Lymphoma	2
+524	2018.0	Lymphoma, B-Cell	2
+525	2018.0	Lymphoma, Follicular	2
+526	2018.0	Malignant Melanoma	2
+527	2018.0	Marginal Zone B-Cell Lymphoma	2
+528	2018.0	Metastatic Melanoma	2
+529	2018.0	Multiple Myeloma	2
+530	2018.0	Myelodysplastic Syndromes	2
+531	2018.0	Myelofibrosis	2
+532	2018.0	Neuroectodermal Tumors, Primitive	2
+533	2018.0	Non-Hodgkin's Lymphoma	2
+534	2018.0	Pancreatic Adenocarcinoma	2
+535	2018.0	Pancreatic Neoplasms	2
+536	2018.0	Prostatic Neoplasms	2
+537	2018.0	Rectal Cancer	2
+538	2018.0	Recurrent Breast Cancer	2
+539	2018.0	Recurrent Glioblastoma	2
+540	2018.0	Severe Aplastic Anemia	2
+541	2018.0	Soft Tissue Sarcoma	2
+542	2018.0	Squamous Cell Carcinoma	2
+543	2018.0	T-Cell Lymphoma	2
+544	2018.0	Wilms Tumor	2
+545	2018.0	Acute Granulocytic Leukemia	1
+546	2018.0	Acute Leukemias	1
+547	2018.0	Acute Lymphoblastic Leukemia in Complete Remission	1
+548	2018.0	Acute Lymphocytic Leukemia (ALL)	1
+549	2018.0	Acute Myelogenous Leukemia	1
+550	2018.0	Acute Non-Lymphocytic Leukemia	1
+551	2018.0	Adenocarcinoma	1
+552	2018.0	Adenocarcinoma of the Gastroesophageal Junction	1
+553	2018.0	Adenocarcinoma of the Lung	1
+554	2018.0	Adenocarcinoma of the Rectum	1
+555	2018.0	Adult Brain Tumor	1
+556	2018.0	Adult Diffuse Large B-Cell Lymphoma	1
+557	2018.0	Advanced HER2-positive Breast Cancer	1
+558	2018.0	Allogeneic Transplant	1
+559	2018.0	Ameloblastoma	1
+560	2018.0	Anal Cancer	1
+561	2018.0	Anastomotic Leak	1
+562	2018.0	Asymptomatic or Low Symptomatic Brain Metastasis in Breast Cancer	1
+563	2018.0	Atherosclerosis	1
+564	2018.0	Atypical Teratoid/Rhabdoid Tumor (AT/RT)	1
+565	2018.0	B-Cell Lymphoma Originating in the CNS	1
+566	2018.0	B-cell Adult Acute Lymphoblastic Leukemia	1
+567	2018.0	BRAF Gene Mutation	1
+568	2018.0	Bladder Cancer	1
+569	2018.0	Bladder Carcinoma	1
+570	2018.0	Bleeding	1
+571	2018.0	Borderline Resectable Pancreatic Cancer	1
+572	2018.0	Brain Metastases From HER2 and Breast Cancer	1
+573	2018.0	Brain Metastasis	1
+574	2018.0	Brain Stem Glioma	1
+575	2018.0	Brain Tumor - Metastatic	1
+576	2018.0	Brainstem Glioma	1
+577	2018.0	Breast Cancer Prevention	1
+578	2018.0	Breast Cancer Stage IV	1
+579	2018.0	CNS Tumors	1
+580	2018.0	COPD	1
+581	2018.0	Cancer Malignancies	1
+582	2018.0	Cancer of Nasopharynx	1
+583	2018.0	Cancer of the Pancreas	1
+584	2018.0	Cancer-related Cognitive Difficulties	1
+585	2018.0	Carcinoma of Larynx	1
+586	2018.0	Carcinoma of the Breast	1
+587	2018.0	Carcinoma, Non-Small-Cell Lung	1
+588	2018.0	Carcinoma, Squamous	1
+589	2018.0	Castrate Resistant Prostate Cancer	1
+590	2018.0	Castration-resistant Prostate Cancer	1
+591	2018.0	Chediak Higashi Syndrome	1
+592	2018.0	Chemotherapy Naive Prostate Cancer	1
+593	2018.0	Childhood Lymphoma	1
+594	2018.0	Childhood Solid Tumor	1
+595	2018.0	Cholangiocarcinoma	1
+596	2018.0	Chronic Granulomatous Disease	1
+597	2018.0	Chronic Lymphocytic Leukemia (CLL)	1
+598	2018.0	Chronic Myelocytic Leukemia	1
+599	2018.0	Cystadenoma, Mucinous	1
+600	2018.0	Deficiency of Vitamin D3	1
+601	2018.0	Dementia	1
+602	2018.0	Depression	1
+603	2018.0	Desmoplastic Small Round Cell Tumor	1
+604	2018.0	Diamond Blackfan Anemia	1
+605	2018.0	Diffuse Intrinsic Pontine Glioma	1
+606	2018.0	Diffuse Large B-Cell Lymphoma	1
+607	2018.0	Diffuse Large B-cell Lymphoma	1
+608	2018.0	Diffuse Large Cell Lymphoma Relapsed/Refractory	1
+609	2018.0	Diffuse, Large B-Cell, Lymphoma	1
+610	2018.0	Disseminated Neuroblastoma	1
+611	2018.0	Ductal Carcinoma in Situ	1
+612	2018.0	Dyskeratosis Congenita	1
+613	2018.0	EWINGS SARCOMA	1
+614	2018.0	Early Invasive Cervical Squamous Cell Carcinoma	1
+615	2018.0	Early Stage Breast Cancer	1
+616	2018.0	Endometrial Cancer	1
+617	2018.0	Epitheliod Malignant Pleural Mesothelioma	1
+618	2018.0	Ewing Sarcoma	1
+619	2018.0	Ewing's Family Tumors	1
+620	2018.0	Extensive Stage Small Cell Lung Cancer	1
+621	2018.0	Fallopian Tube Carcinoma	1
+622	2018.0	Fanconi Anemia	1
+623	2018.0	Fatigue Related to Cancer Treatment	1
+624	2018.0	Fibrillary Astrocytoma of Brain	1
+625	2018.0	Functional Disability	1
+626	2018.0	Gastric Cancer	1
+627	2018.0	Gastrointestinal Stromal Tumor	1
+628	2018.0	Gene Mutation	1
+629	2018.0	Germ Cell Tumors	1
+630	2018.0	Germline Mutation Carrier	1
+631	2018.0	Glanzmann Thrombasthenia	1
+632	2018.0	Glial Cell Tumors	1
+633	2018.0	Glioblastoma	1
+634	2018.0	Glioblastoma Multiforme of Brain	1
+635	2018.0	Glioma - Recurrent Grade II	1
+636	2018.0	Glioma of Brainstem	1
+637	2018.0	Gliomatosis Cerebri	1
+638	2018.0	Gliosarcoma	1
+639	2018.0	Graft-Versus-Host Disease	1
+640	2018.0	Graves' Disease	1
+641	2018.0	HER-2 Positive Breast Cancer	1
+642	2018.0	HER2 Positive Untreated Metastatic Breast Cancer	1
+643	2018.0	HPV Positive Oropharyngeal Squamous Cell Carcinoma	1
+644	2018.0	Heart Disease	1
+645	2018.0	Hematologic Malignancies	1
+646	2018.0	Hematopoietic Stem Cells	1
+647	2018.0	Hemophagocytic Lymphohistiocytosis	1
+648	2018.0	Hepatoblastoma	1
+649	2018.0	Her 2 Positive Breast Cancer	1
+650	2018.0	High Risk Prostate Cancer	1
+651	2018.0	Histiocytic Sarcoma (HS)	1
+652	2018.0	Histiocytoses Erdheim-chester Disease	1
+653	2018.0	Hodgkin Disease	1
+654	2018.0	Hodgkin or Non-Hodgkin Lymphoma	1
+655	2018.0	Hodgkin's Disease	1
+656	2018.0	Human Epidermal Growth Factor 2 Negative Carcinoma of Breast	1
+657	2018.0	Hurler Syndrome	1
+658	2018.0	Hypopharyngeal Cancer	1
+659	2018.0	Inflammatory Breast Cancer	1
+660	2018.0	Inflammatory Breast Carcinoma	1
+661	2018.0	Invasive Breast Cancer	1
+662	2018.0	Invasive Breast Cancer (Stage I-III)	1
+663	2018.0	Juvenile Myelomonocytic Leukemia	1
+664	2018.0	Kaposiform Hemangioendothelioma (KHE)	1
+665	2018.0	Kasabach-Merritt Syndrome	1
+666	2018.0	Langerhans Cell Histiocytosis (LCH)	1
+667	2018.0	Leukemia, Acute Myelogenous	1
+668	2018.0	Leukocyte Adhesion Deficiency	1
+669	2018.0	Limited Stage Small Cell Lung Cancer	1
+670	2018.0	Liver Cancer	1
+671	2018.0	Lobular Carcinoma	1
+672	2018.0	Lobular Carcinoma in Situ	1
+673	2018.0	Lung Cancer	1
+674	2018.0	Lymphangioleiomyomatosis	1
+675	2018.0	Lymphoblastic Lymphoma in Complete Remission	1
+676	2018.0	Lymphoma, Large B-Cell, Diffuse	1
+677	2018.0	Lymphoma, Non-Hodgkin	1
+678	2018.0	Lymphoplasmacytic Lymphoma	1
+679	2018.0	Lynch Syndrome	1
+680	2018.0	MTOR	1
+681	2018.0	Malignant Glioma	1
+682	2018.0	Malignant Gliomas	1
+683	2018.0	Malignant Lymphoma - Lymphoplasmacytic	1
+684	2018.0	Mantle Cell Lymphoma	1
+685	2018.0	Mantle Cell Lymphoma Recurrent	1
+686	2018.0	Mantle-Cell Lymphoma	1
+687	2018.0	Mature B-Cell Lymphoma	1
+688	2018.0	Medulloblastoma, Childhood	1
+689	2018.0	Metastatic Castration-resistant Prostate Cancer	1
+690	2018.0	Metastatic Hormone-sensitive Prostate Cancer	1
+691	2018.0	Metastatic Invasive Breast Cancer	1
+692	2018.0	Metastatic Osteosarcoma	1
+693	2018.0	Metastatic Pheochromocytoma	1
+694	2018.0	Metastatic Renal Cell Carcinoma	1
+695	2018.0	Metastatic Sarcoma	1
+696	2018.0	Metastatic Triple Negative Breast Cancer	1
+697	2018.0	Mixed Oligodendroglioma-Astrocytoma	1
+698	2018.0	Mixed Phenotype Acute Leukemia in Complete Remission	1
+699	2018.0	Myelodysplastic Syndrome (MDS)	1
+700	2018.0	Myeloid Hematological Malignancies	1
+701	2018.0	Neoplasms	1
+702	2018.0	Neoplasms Pancreatic	1
+703	2018.0	Neoplasms, Esophageal	1
+704	2018.0	Nicotine Dependence	1
+705	2018.0	Non Small Cell Lung Cancer	1
+706	2018.0	Non-Melanoma Skin Cancers	1
+707	2018.0	Non-Small Cell Lung Cancer (NSCLC)	1
+708	2018.0	Nonneoplastic Condition	1
+709	2018.0	Oropharyngeal Cancer	1
+710	2018.0	Oropharyngeal Neoplasms	1
+711	2018.0	Osteosarcoma	1
+712	2018.0	Pancreatic Cancer Metastatic	1
+713	2018.0	Pancreatic Cyst	1
+714	2018.0	Pancreatic Ductal Carcinoma	1
+715	2018.0	Pancreatic Intraductal Papillary-Mucinous Neoplasm	1
+716	2018.0	Papillary Mucinous Cystadenoma, Borderline Malignancy	1
+717	2018.0	Paraganglioma	1
+718	2018.0	Pediatric Progressive Low-grade Gliomas	1
+719	2018.0	Pediatric Recurrent Progressive Low-grade Gliomas	1
+720	2018.0	Peripheral Nervous System Diseases	1
+721	2018.0	Peripheral T-cell Lymphoma	1
+722	2018.0	Peritoneal Cancer	1
+723	2018.0	Peutz-Jeghers Syndrome	1
+724	2018.0	Pheochromocytoma	1
+725	2018.0	Pilomyxoid Astrocytoma	1
+726	2018.0	Plasma Cell Leukemia	1
+727	2018.0	Platinum Sensitive Ovarian Cancer	1
+728	2018.0	Post Transplant Lymphoproliferative Disorder	1
+729	2018.0	Primary Malignant Brain Neoplasms	1
+730	2018.0	Primary Mediastinal (Thymic) Large B-cell Lymphoma	1
+731	2018.0	Primary Peritoneal Cancer	1
+732	2018.0	Primary Peritoneal Carcinoma	1
+733	2018.0	Prolymphocytic Leukemia	1
+734	2018.0	Prostate Adenocarcinoma	1
+735	2018.0	Radiation Pneumonitis	1
+736	2018.0	Recurrent B-Cell Childhood Acute Lymphoblastic Leukemia	1
+737	2018.0	Recurrent Childhood B-Lymphoblastic Lymphoma	1
+738	2018.0	Recurrent Melanoma	1
+739	2018.0	Recurrent Nasopharynx Carcinoma	1
+740	2018.0	Recurrent Neuroblastoma	1
+741	2018.0	Recurrent Non-small Cell Lung Cancer	1
+742	2018.0	Recurrent Osteosarcoma	1
+743	2018.0	Recurrent Ovarian Cancer	1
+744	2018.0	Recurrent Small Cell Lung Cancer	1
+745	2018.0	Refractory Acute Myeloid Leukemia	1
+746	2018.0	Refractory T-Cell Lymphoma	1
+747	2018.0	Relapsed Acute Myeloid Leukemia	1
+748	2018.0	Relapsed Neuroblastoma	1
+749	2018.0	Relapsed T-Cell Lymphoma	1
+750	2018.0	Relapsed/Refractory Acute Myeloid Leukemia	1
+751	2018.0	Relapsed/Refractory Indolent B Cell Non-Hodgkin Lymphomas	1
+752	2018.0	Renal Tumors	1
+753	2018.0	Resectable Pancreatic Cancer	1
+754	2018.0	Resectable Pancreatic Cancers	1
+755	2018.0	Sarcoma, Ewing	1
+756	2018.0	Sarcoma, Myeloid	1
+757	2018.0	Severe Congenital Neutropenia	1
+758	2018.0	Shwachman Diamond Syndrome	1
+759	2018.0	Small Cell Lung Cancer	1
+760	2018.0	Solid Tumor	1
+761	2018.0	Squamous Cell Carcinoma of the Head and Neck	1
+762	2018.0	Stage I-III Colon Cancer	1
+763	2018.0	Stage II Childhood Hodgkin Lymphoma	1
+764	2018.0	Stage II Rectal Cancer	1
+765	2018.0	Stage III Childhood Hodgkin Lymphoma	1
+766	2018.0	Stage III Rectal Cancer	1
+767	2018.0	Stage IIIA Melanoma	1
+768	2018.0	Stage IIIA Non-small Cell Lung Cancer	1
+769	2018.0	Stage IIIB Melanoma	1
+770	2018.0	Stage IIIB Non-small Cell Lung Cancer	1
+771	2018.0	Stage IIIC Melanoma	1
+772	2018.0	Stage IV Breast Cancer	1
+773	2018.0	Stage IV Childhood Hodgkin Lymphoma	1
+774	2018.0	Stage IV Colon Cancer With Resectable Liver Metastases	1
+775	2018.0	Stage IV Melanoma	1
+776	2018.0	Stage IV Non-small Cell Lung Cancer	1
+777	2018.0	Stage, Colon Cancer	1
+778	2018.0	Stroke	1
+779	2018.0	Supra-tentorial Primative Neuro-Ectodermal Tumor (PNET)	1
+780	2018.0	T-cell Adult Acute Lymphoblastic Leukemia	1
+781	2018.0	TSC1	1
+782	2018.0	TSC2	1
+783	2018.0	Testicular Neoplasms	1
+784	2018.0	Thalassemia	1
+785	2018.0	Triple Negative Breast Cancer	1
+786	2018.0	Tuberous Sclerosis Complex	1
+787	2018.0	Tufted Angioma	1
+788	2018.0	Unresectable Locally Advanced Invasive Breast Cancer	1
+789	2018.0	Urothelial Cancer	1
+790	2018.0	Waldenstrom Macroglobulinemia	1
+791	2018.0	Waldenstrom's Macroglobulinemia	1
+792	2018.0	Wiskott-Aldrich Syndrome	1
+793	2019.0	Breast Cancer	14
+794	2019.0	Prostate Cancer	10
+795	2019.0	Neuroblastoma	7
+796	2019.0	Acute Lymphoblastic Leukemia	6
+797	2019.0	Leukemia	6
+798	2019.0	Lymphoma	6
+799	2019.0	Acute Myeloid Leukemia	4
+800	2019.0	Chronic Lymphocytic Leukemia	4
+801	2019.0	Sarcoma	4
+802	2019.0	Acute Myeloid Leukemia (AML)	3
+803	2019.0	Head and Neck Cancer	3
+804	2019.0	Lymphoblastic Lymphoma	3
+805	2019.0	Pancreas Cancer	3
+806	2019.0	Pancreatic Cancer	3
+807	2019.0	Retinoblastoma	3
+808	2019.0	Rhabdomyosarcoma	3
+809	2019.0	Brain Tumor, Recurrent	2
+810	2019.0	Breast Neoplasms	2
+811	2019.0	Burkitt's Lymphoma	2
+812	2019.0	Carcinoma, Squamous Cell of Head and Neck	2
+813	2019.0	Cervical Cancer	2
+814	2019.0	Chronic Myelogenous Leukemia	2
+815	2019.0	Colorectal Cancer	2
+816	2019.0	Diffuse Large B Cell Lymphoma	2
+817	2019.0	Esophageal Cancer	2
+818	2019.0	Glioma	2
+819	2019.0	Graft Versus Host Disease	2
+820	2019.0	Hodgkin's Lymphoma	2
+821	2019.0	Medulloblastoma	2
+822	2019.0	Melanoma	2
+823	2019.0	Metastatic Breast Cancer	2
+824	2019.0	Multiple Myeloma	2
+825	2019.0	Myelodysplasia	2
+826	2019.0	Myelodysplastic Syndrome	2
+827	2019.0	Myelodysplastic Syndromes	2
+828	2019.0	Myelofibrosis	2
+829	2019.0	Non-Hodgkin's Lymphoma	2
+830	2019.0	Ovarian Cancer	2
+831	2019.0	Recurrent Breast Cancer	2
+832	2019.0	Severe Aplastic Anemia	2
+833	2019.0	Squamous Cell Carcinoma	2
+834	2019.0	Acute Granulocytic Leukemia	1
+835	2019.0	Acute Leukemia	1
+836	2019.0	Acute Leukemias	1
+837	2019.0	Acute Lymphoblastic Leukemia in Complete Remission	1
+838	2019.0	Acute Lymphocytic Leukemia (ALL)	1
+839	2019.0	Acute Myelocytic Leukemia	1
+840	2019.0	Acute Myelogenous Leukemia	1
+841	2019.0	Acute Non-Lymphocytic Leukemia	1
+842	2019.0	Adenocarcinoma of the Gastroesophageal Junction	1
+843	2019.0	Adenocarcinoma of the Lung	1
+844	2019.0	Adenocarcinoma of the Rectum	1
+845	2019.0	Advanced HER2-positive Breast Cancer	1
+846	2019.0	Allogeneic Transplant	1
+847	2019.0	Anaplastic Astrocytoma	1
+848	2019.0	Anastomotic Leak	1
+849	2019.0	Atypical Teratoid/Rhabdoid Tumor (AT/RT)	1
+850	2019.0	B-cell Adult Acute Lymphoblastic Leukemia	1
+851	2019.0	Bladder Cancer	1
+852	2019.0	Bladder Carcinoma	1
+853	2019.0	Borderline Resectable Pancreatic Cancer	1
+854	2019.0	Brain Metastases From HER2 and Breast Cancer	1
+855	2019.0	Brain Tumor - Metastatic	1
+856	2019.0	Brain and Central Nervous System Tumors	1
+857	2019.0	Brainstem Glioma	1
+858	2019.0	Breast Cancer Prevention	1
+859	2019.0	Breast Cancer Stage IV	1
+860	2019.0	CNS Tumors	1
+861	2019.0	Cancer	1
+862	2019.0	Cancer of Nasopharynx	1
+863	2019.0	Carcinoma of Larynx	1
+864	2019.0	Carcinoma of the Breast	1
+865	2019.0	Carcinoma, Squamous	1
+866	2019.0	Chediak Higashi Syndrome	1
+867	2019.0	Cholangiocarcinoma	1
+868	2019.0	Chronic Granulomatous Disease	1
+869	2019.0	Colon Cancer	1
+870	2019.0	Diamond Blackfan Anemia	1
+871	2019.0	Diffuse Large B-Cell Lymphoma	1
+872	2019.0	Diffuse Large Cell Lymphoma Relapsed/Refractory	1
+873	2019.0	Ductal Carcinoma in Situ	1
+874	2019.0	Dyskeratosis Congenita	1
+875	2019.0	EWINGS SARCOMA	1
+876	2019.0	Early Invasive Cervical Squamous Cell Carcinoma	1
+877	2019.0	Early Stage Breast Cancer	1
+878	2019.0	Endometrial Cancer	1
+879	2019.0	Ewing's Family Tumors	1
+880	2019.0	Extensive Stage Small Cell Lung Cancer	1
+881	2019.0	Fallopian Tube Cancer	1
+882	2019.0	Fallopian Tube Carcinoma	1
+883	2019.0	Fanconi Anemia	1
+884	2019.0	Fatigue Related to Cancer Treatment	1
+885	2019.0	Follicular Lymphoma	1
+886	2019.0	Gastric Cancer	1
+887	2019.0	Gastrointestinal Stromal Tumor	1
+888	2019.0	Gene Mutation	1
+889	2019.0	Germ Cell Tumors	1
+890	2019.0	Germline Mutation Carrier	1
+891	2019.0	Glanzmann Thrombasthenia	1
+892	2019.0	Glial Cell Tumors	1
+893	2019.0	Glioblastoma	1
+894	2019.0	Glioblastoma Multiforme	1
+895	2019.0	Glioblastoma Multiforme of Brain	1
+896	2019.0	Glioma - Recurrent Grade II	1
+897	2019.0	Gliomatosis Cerebri	1
+898	2019.0	Gliosarcoma	1
+899	2019.0	HER-2 Positive Breast Cancer	1
+900	2019.0	HPV Positive Oropharyngeal Squamous Cell Carcinoma	1
+901	2019.0	Hematopoietic Stem Cells	1
+902	2019.0	Hemophagocytic Lymphohistiocytosis	1
+903	2019.0	Hepatoblastoma	1
+904	2019.0	Her 2 Positive Breast Cancer	1
+905	2019.0	High Risk Prostate Cancer	1
+906	2019.0	Histiocytic Sarcoma (HS)	1
+907	2019.0	Histiocytoses Erdheim-chester Disease	1
+908	2019.0	Hodgkin Disease	1
+909	2019.0	Human Epidermal Growth Factor 2 Negative Carcinoma of Breast	1
+910	2019.0	Hurler Syndrome	1
+911	2019.0	Hypopharyngeal Cancer	1
+912	2019.0	Inflammatory Breast Cancer	1
+913	2019.0	Invasive Breast Cancer	1
+914	2019.0	Invasive Breast Cancer (Stage I-III)	1
+915	2019.0	Kaposiform Hemangioendothelioma (KHE)	1
+916	2019.0	Kasabach-Merritt Syndrome	1
+917	2019.0	Langerhans Cell Histiocytosis (LCH)	1
+918	2019.0	Leukemia, Acute Myelogenous	1
+919	2019.0	Leukocyte Adhesion Deficiency	1
+920	2019.0	Limited Stage Small Cell Lung Cancer	1
+921	2019.0	Liver Cancer	1
+922	2019.0	Lobular Carcinoma	1
+923	2019.0	Lobular Carcinoma in Situ	1
+924	2019.0	Lung Cancer	1
+925	2019.0	Lymphangioleiomyomatosis	1
+926	2019.0	Lymphoblastic Lymphoma in Complete Remission	1
+927	2019.0	Lymphoma, B-Cell	1
+928	2019.0	Lymphoplasmacytic Lymphoma	1
+929	2019.0	Lynch Syndrome	1
+930	2019.0	MTOR	1
+931	2019.0	Malignant Gliomas	1
+932	2019.0	Malignant Melanoma	1
+933	2019.0	Mantle-Cell Lymphoma	1
+934	2019.0	Marginal Zone B-Cell Lymphoma	1
+935	2019.0	Mature B-Cell Lymphoma	1
+936	2019.0	Metastatic Colorectal Cancer	1
+937	2019.0	Metastatic Hormone-sensitive Prostate Cancer	1
+938	2019.0	Metastatic Invasive Breast Cancer	1
+939	2019.0	Metastatic Melanoma	1
+940	2019.0	Metastatic Sarcoma	1
+941	2019.0	Mixed Phenotype Acute Leukemia in Complete Remission	1
+942	2019.0	Myelodysplastic Syndrome (MDS)	1
+943	2019.0	Myeloid Hematological Malignancies	1
+944	2019.0	Neuroectodermal Tumors, Primitive	1
+945	2019.0	Non Small Cell Lung Cancer	1
+946	2019.0	Non-Hodgkin Lymphoma	1
+947	2019.0	Non-Melanoma Skin Cancers	1
+948	2019.0	Non-Small Cell Lung Cancer (NSCLC)	1
+949	2019.0	Nonneoplastic Condition	1
+950	2019.0	Oropharyngeal Cancer	1
+951	2019.0	Oropharyngeal Neoplasms	1
+952	2019.0	Osteosarcoma	1
+953	2019.0	Pancreatic Ductal Carcinoma	1
+954	2019.0	Paraganglioma	1
+955	2019.0	Pediatric Progressive Low-grade Gliomas	1
+956	2019.0	Pediatric Recurrent Progressive Low-grade Gliomas	1
+957	2019.0	Peutz-Jeghers Syndrome	1
+958	2019.0	Pheochromocytoma	1
+959	2019.0	Plasma Cell Leukemia	1
+960	2019.0	Post Transplant Lymphoproliferative Disorder	1
+961	2019.0	Primary Malignant Brain Neoplasms	1
+962	2019.0	Primary Mediastinal (Thymic) Large B-cell Lymphoma	1
+963	2019.0	Primary Peritoneal Cancer	1
+964	2019.0	Primary Peritoneal Carcinoma	1
+965	2019.0	Prolymphocytic Leukemia	1
+966	2019.0	Prostate Adenocarcinoma	1
+967	2019.0	Radiation Pneumonitis	1
+968	2019.0	Rectal Cancer	1
+969	2019.0	Recurrent B-Cell Childhood Acute Lymphoblastic Leukemia	1
+970	2019.0	Recurrent Childhood B-Lymphoblastic Lymphoma	1
+971	2019.0	Recurrent Glioblastoma	1
+972	2019.0	Recurrent Melanoma	1
+973	2019.0	Recurrent Nasopharynx Carcinoma	1
+974	2019.0	Recurrent Non-small Cell Lung Cancer	1
+975	2019.0	Recurrent Small Cell Lung Cancer	1
+976	2019.0	Relapsed/Refractory Indolent B Cell Non-Hodgkin Lymphomas	1
+977	2019.0	Renal Tumors	1
+978	2019.0	Resectable Pancreatic Cancer	1
+979	2019.0	Resectable Pancreatic Cancers	1
+980	2019.0	Sarcoma, Ewing	1
+981	2019.0	Severe Congenital Neutropenia	1
+982	2019.0	Shwachman Diamond Syndrome	1
+983	2019.0	Small Cell Lung Cancer	1
+984	2019.0	Small Lymphocytic Lymphoma	1
+985	2019.0	Soft Tissue Sarcoma	1
+986	2019.0	Stage I-III Colon Cancer	1
+987	2019.0	Stage II Childhood Hodgkin Lymphoma	1
+988	2019.0	Stage II Rectal Cancer	1
+989	2019.0	Stage III Childhood Hodgkin Lymphoma	1
+990	2019.0	Stage III Rectal Cancer	1
+991	2019.0	Stage IIIA Melanoma	1
+992	2019.0	Stage IIIA Non-small Cell Lung Cancer	1
+993	2019.0	Stage IIIB Melanoma	1
+994	2019.0	Stage IIIB Non-small Cell Lung Cancer	1
+995	2019.0	Stage IIIC Melanoma	1
+996	2019.0	Stage IV Childhood Hodgkin Lymphoma	1
+997	2019.0	Stage IV Colon Cancer With Resectable Liver Metastases	1
+998	2019.0	Stage IV Melanoma	1
+999	2019.0	Stage IV Non-small Cell Lung Cancer	1
+1000	2019.0	Stage, Colon Cancer	1
+1001	2019.0	Supra-tentorial Primative Neuro-Ectodermal Tumor (PNET)	1
+1002	2019.0	T-cell Adult Acute Lymphoblastic Leukemia	1
+1003	2019.0	TSC1	1
+1004	2019.0	TSC2	1
+1005	2019.0	Thalassemia	1
+1006	2019.0	Triple Negative Breast Cancer	1
+1007	2019.0	Tuberous Sclerosis Complex	1
+1008	2019.0	Tufted Angioma	1
+1009	2019.0	Unresectable Locally Advanced Invasive Breast Cancer	1
+1010	2019.0	Urothelial Cancer	1
+1011	2019.0	Waldenstrom's Macroglobulinemia	1
+1012	2019.0	Wilms Tumor	1
+1013	2019.0	Wiskott-Aldrich Syndrome	1
+1014	2020.0	Breast Cancer	9
+1015	2020.0	Prostate Cancer	6
+1016	2020.0	Leukemia	5
+1017	2020.0	Neuroblastoma	5
+1018	2020.0	Acute Myeloid Leukemia	4
+1019	2020.0	Chronic Lymphocytic Leukemia	4
+1020	2020.0	Acute Myeloid Leukemia (AML)	3
+1021	2020.0	Lymphoblastic Lymphoma	3
+1022	2020.0	Lymphoma	3
+1023	2020.0	Pancreas Cancer	3
+1024	2020.0	Sarcoma	3
+1025	2020.0	Brain Tumor, Recurrent	2
+1026	2020.0	Burkitt's Lymphoma	2
+1027	2020.0	Carcinoma, Squamous Cell of Head and Neck	2
+1028	2020.0	Cervical Cancer	2
+1029	2020.0	Chronic Myelogenous Leukemia	2
+1030	2020.0	Diffuse Large B Cell Lymphoma	2
+1031	2020.0	Graft Versus Host Disease	2
+1032	2020.0	Head and Neck Cancer	2
+1033	2020.0	Melanoma	2
+1034	2020.0	Multiple Myeloma	2
+1035	2020.0	Myelodysplasia	2
+1036	2020.0	Myelodysplastic Syndromes	2
+1037	2020.0	Ovarian Cancer	2
+1038	2020.0	Pancreatic Cancer	2
+1039	2020.0	Retinoblastoma	2
+1040	2020.0	Rhabdomyosarcoma	2
+1041	2020.0	Acute Granulocytic Leukemia	1
+1042	2020.0	Acute Leukemia	1
+1043	2020.0	Acute Leukemias	1
+1044	2020.0	Acute Lymphoblastic Leukemia	1
+1045	2020.0	Acute Lymphoblastic Leukemia in Complete Remission	1
+1046	2020.0	Acute Lymphocytic Leukemia (ALL)	1
+1047	2020.0	Acute Myelocytic Leukemia	1
+1048	2020.0	Acute Myelogenous Leukemia	1
+1049	2020.0	Acute Non-Lymphocytic Leukemia	1
+1050	2020.0	Anastomotic Leak	1
+1051	2020.0	B-cell Adult Acute Lymphoblastic Leukemia	1
+1052	2020.0	Bladder Carcinoma	1
+1053	2020.0	Brain Tumor - Metastatic	1
+1054	2020.0	Brain and Central Nervous System Tumors	1
+1055	2020.0	Breast Cancer Prevention	1
+1056	2020.0	Breast Cancer Stage IV	1
+1057	2020.0	Cancer	1
+1058	2020.0	Cancer of Nasopharynx	1
+1059	2020.0	Carcinoma of Larynx	1
+1060	2020.0	Carcinoma of the Breast	1
+1061	2020.0	Carcinoma, Squamous	1
+1062	2020.0	Chediak Higashi Syndrome	1
+1063	2020.0	Cholangiocarcinoma	1
+1064	2020.0	Chronic Granulomatous Disease	1
+1065	2020.0	Colorectal Cancer	1
+1066	2020.0	Diamond Blackfan Anemia	1
+1067	2020.0	Ductal Carcinoma in Situ	1
+1068	2020.0	Dyskeratosis Congenita	1
+1069	2020.0	EWINGS SARCOMA	1
+1070	2020.0	Early Invasive Cervical Squamous Cell Carcinoma	1
+1071	2020.0	Early Stage Breast Cancer	1
+1072	2020.0	Esophageal Cancer	1
+1073	2020.0	Fallopian Tube Cancer	1
+1074	2020.0	Fallopian Tube Carcinoma	1
+1075	2020.0	Fanconi Anemia	1
+1076	2020.0	Fatigue Related to Cancer Treatment	1
+1077	2020.0	Follicular Lymphoma	1
+1078	2020.0	Gastrointestinal Stromal Tumor	1
+1079	2020.0	Gene Mutation	1
+1080	2020.0	Germline Mutation Carrier	1
+1081	2020.0	Glanzmann Thrombasthenia	1
+1082	2020.0	Glioma	1
+1083	2020.0	HER-2 Positive Breast Cancer	1
+1084	2020.0	HPV Positive Oropharyngeal Squamous Cell Carcinoma	1
+1085	2020.0	Hematopoietic Stem Cells	1
+1086	2020.0	Hemophagocytic Lymphohistiocytosis	1
+1087	2020.0	High Risk Prostate Cancer	1
+1088	2020.0	Histiocytic Sarcoma (HS)	1
+1089	2020.0	Histiocytoses Erdheim-chester Disease	1
+1090	2020.0	Hodgkin's Lymphoma	1
+1091	2020.0	Human Epidermal Growth Factor 2 Negative Carcinoma of Breast	1
+1092	2020.0	Hurler Syndrome	1
+1093	2020.0	Hypopharyngeal Cancer	1
+1094	2020.0	Inflammatory Breast Cancer	1
+1095	2020.0	Invasive Breast Cancer (Stage I-III)	1
+1096	2020.0	Langerhans Cell Histiocytosis (LCH)	1
+1097	2020.0	Leukemia, Acute Myelogenous	1
+1098	2020.0	Leukocyte Adhesion Deficiency	1
+1099	2020.0	Liver Cancer	1
+1100	2020.0	Lobular Carcinoma	1
+1101	2020.0	Lobular Carcinoma in Situ	1
+1102	2020.0	Lung Cancer	1
+1103	2020.0	Lymphangioleiomyomatosis	1
+1104	2020.0	Lymphoblastic Lymphoma in Complete Remission	1
+1105	2020.0	Lymphoma, B-Cell	1
+1106	2020.0	Lymphoplasmacytic Lymphoma	1
+1107	2020.0	Lynch Syndrome	1
+1108	2020.0	MTOR	1
+1109	2020.0	Mantle-Cell Lymphoma	1
+1110	2020.0	Marginal Zone B-Cell Lymphoma	1
+1111	2020.0	Mature B-Cell Lymphoma	1
+1112	2020.0	Medulloblastoma	1
+1113	2020.0	Metastatic Breast Cancer	1
+1114	2020.0	Metastatic Colorectal Cancer	1
+1115	2020.0	Metastatic Hormone-sensitive Prostate Cancer	1
+1116	2020.0	Metastatic Invasive Breast Cancer	1
+1117	2020.0	Metastatic Sarcoma	1
+1118	2020.0	Mixed Phenotype Acute Leukemia in Complete Remission	1
+1119	2020.0	Myelodysplastic Syndrome	1
+1120	2020.0	Myelodysplastic Syndrome (MDS)	1
+1121	2020.0	Myelofibrosis	1
+1122	2020.0	Myeloid Hematological Malignancies	1
+1123	2020.0	Neuroectodermal Tumors, Primitive	1
+1124	2020.0	Non Small Cell Lung Cancer	1
+1125	2020.0	Non-Hodgkin Lymphoma	1
+1126	2020.0	Non-Hodgkin's Lymphoma	1
+1127	2020.0	Non-Melanoma Skin Cancers	1
+1128	2020.0	Non-Small Cell Lung Cancer (NSCLC)	1
+1129	2020.0	Nonneoplastic Condition	1
+1130	2020.0	Oropharyngeal Cancer	1
+1131	2020.0	Oropharyngeal Neoplasms	1
+1132	2020.0	Osteosarcoma	1
+1133	2020.0	Pancreatic Ductal Carcinoma	1
+1134	2020.0	Paraganglioma	1
+1135	2020.0	Pediatric Progressive Low-grade Gliomas	1
+1136	2020.0	Pediatric Recurrent Progressive Low-grade Gliomas	1
+1137	2020.0	Peutz-Jeghers Syndrome	1
+1138	2020.0	Pheochromocytoma	1
+1139	2020.0	Plasma Cell Leukemia	1
+1140	2020.0	Post Transplant Lymphoproliferative Disorder	1
+1141	2020.0	Primary Mediastinal (Thymic) Large B-cell Lymphoma	1
+1142	2020.0	Primary Peritoneal Cancer	1
+1143	2020.0	Primary Peritoneal Carcinoma	1
+1144	2020.0	Prolymphocytic Leukemia	1
+1145	2020.0	Prostate Adenocarcinoma	1
+1146	2020.0	Radiation Pneumonitis	1
+1147	2020.0	Rectal Cancer	1
+1148	2020.0	Recurrent B-Cell Childhood Acute Lymphoblastic Leukemia	1
+1149	2020.0	Recurrent Breast Cancer	1
+1150	2020.0	Recurrent Childhood B-Lymphoblastic Lymphoma	1
+1151	2020.0	Recurrent Melanoma	1
+1152	2020.0	Recurrent Nasopharynx Carcinoma	1
+1153	2020.0	Relapsed/Refractory Indolent B Cell Non-Hodgkin Lymphomas	1
+1154	2020.0	Resectable Pancreatic Cancer	1
+1155	2020.0	Sarcoma, Ewing	1
+1156	2020.0	Severe Aplastic Anemia	1
+1157	2020.0	Severe Congenital Neutropenia	1
+1158	2020.0	Shwachman Diamond Syndrome	1
+1159	2020.0	Small Cell Lung Cancer	1
+1160	2020.0	Small Lymphocytic Lymphoma	1
+1161	2020.0	Squamous Cell Carcinoma	1
+1162	2020.0	Stage I-III Colon Cancer	1
+1163	2020.0	Stage II Childhood Hodgkin Lymphoma	1
+1164	2020.0	Stage III Childhood Hodgkin Lymphoma	1
+1165	2020.0	Stage IIIA Melanoma	1
+1166	2020.0	Stage IIIB Melanoma	1
+1167	2020.0	Stage IIIC Melanoma	1
+1168	2020.0	Stage IV Childhood Hodgkin Lymphoma	1
+1169	2020.0	Stage IV Colon Cancer With Resectable Liver Metastases	1
+1170	2020.0	Stage IV Melanoma	1
+1171	2020.0	Stage, Colon Cancer	1
+1172	2020.0	T-cell Adult Acute Lymphoblastic Leukemia	1
+1173	2020.0	TSC1	1
+1174	2020.0	TSC2	1
+1175	2020.0	Thalassemia	1
+1176	2020.0	Triple Negative Breast Cancer	1
+1177	2020.0	Tuberous Sclerosis Complex	1
+1178	2020.0	Unresectable Locally Advanced Invasive Breast Cancer	1
+1179	2020.0	Waldenstrom's Macroglobulinemia	1
+1180	2020.0	Wilms Tumor	1
+1181	2020.0	Wiskott-Aldrich Syndrome	1
+1182	2021.0	Breast Cancer	6
+1183	2021.0	Neuroblastoma	5
+1184	2021.0	Prostate Cancer	4
+1185	2021.0	Acute Myeloid Leukemia	3
+1186	2021.0	Acute Myeloid Leukemia (AML)	3
+1187	2021.0	Chronic Lymphocytic Leukemia	3
+1188	2021.0	Brain Tumor, Recurrent	2
+1189	2021.0	Diffuse Large B Cell Lymphoma	2
+1190	2021.0	Lymphoblastic Lymphoma	2
+1191	2021.0	Multiple Myeloma	2
+1192	2021.0	Myelodysplasia	2
+1193	2021.0	Pancreas Cancer	2
+1194	2021.0	Acute Granulocytic Leukemia	1
+1195	2021.0	Acute Leukemia	1
+1196	2021.0	Acute Lymphoblastic Leukemia in Complete Remission	1
+1197	2021.0	Acute Lymphocytic Leukemia (ALL)	1
+1198	2021.0	Acute Myelocytic Leukemia	1
+1199	2021.0	Acute Myelogenous Leukemia	1
+1200	2021.0	Acute Non-Lymphocytic Leukemia	1
+1201	2021.0	Bladder Carcinoma	1
+1202	2021.0	Brain Tumor - Metastatic	1
+1203	2021.0	Brain and Central Nervous System Tumors	1
+1204	2021.0	Breast Cancer Stage IV	1
+1205	2021.0	Burkitt's Lymphoma	1
+1206	2021.0	Carcinoma of the Breast	1
+1207	2021.0	Carcinoma, Squamous	1
+1208	2021.0	Cervical Cancer	1
+1209	2021.0	Cholangiocarcinoma	1
+1210	2021.0	Chronic Myelogenous Leukemia	1
+1211	2021.0	Colorectal Cancer	1
+1212	2021.0	Ductal Carcinoma in Situ	1
+1213	2021.0	Early Stage Breast Cancer	1
+1214	2021.0	Esophageal Cancer	1
+1215	2021.0	Fallopian Tube Cancer	1
+1216	2021.0	Fatigue Related to Cancer Treatment	1
+1217	2021.0	Follicular Lymphoma	1
+1218	2021.0	Gene Mutation	1
+1219	2021.0	Germline Mutation Carrier	1
+1220	2021.0	HER-2 Positive Breast Cancer	1
+1221	2021.0	Head and Neck Cancer	1
+1222	2021.0	Hematopoietic Stem Cells	1
+1223	2021.0	High Risk Prostate Cancer	1
+1224	2021.0	Histiocytic Sarcoma (HS)	1
+1225	2021.0	Histiocytoses Erdheim-chester Disease	1
+1226	2021.0	Hodgkin's Lymphoma	1
+1227	2021.0	Human Epidermal Growth Factor 2 Negative Carcinoma of Breast	1
+1228	2021.0	Inflammatory Breast Cancer	1
+1229	2021.0	Invasive Breast Cancer (Stage I-III)	1
+1230	2021.0	Langerhans Cell Histiocytosis (LCH)	1
+1231	2021.0	Leukemia	1
+1232	2021.0	Leukemia, Acute Myelogenous	1
+1233	2021.0	Lobular Carcinoma	1
+1234	2021.0	Lobular Carcinoma in Situ	1
+1235	2021.0	Lymphoblastic Lymphoma in Complete Remission	1
+1236	2021.0	Lymphoma	1
+1237	2021.0	Lymphoma, B-Cell	1
+1238	2021.0	Lymphoplasmacytic Lymphoma	1
+1239	2021.0	Lynch Syndrome	1
+1240	2021.0	MTOR	1
+1241	2021.0	Mantle-Cell Lymphoma	1
+1242	2021.0	Marginal Zone B-Cell Lymphoma	1
+1243	2021.0	Mature B-Cell Lymphoma	1
+1244	2021.0	Medulloblastoma	1
+1245	2021.0	Metastatic Hormone-sensitive Prostate Cancer	1
+1246	2021.0	Metastatic Invasive Breast Cancer	1
+1247	2021.0	Metastatic Sarcoma	1
+1248	2021.0	Mixed Phenotype Acute Leukemia in Complete Remission	1
+1249	2021.0	Myelodysplastic Syndrome (MDS)	1
+1250	2021.0	Myelofibrosis	1
+1251	2021.0	Myeloid Hematological Malignancies	1
+1252	2021.0	Non-Hodgkin Lymphoma	1
+1253	2021.0	Non-Hodgkin's Lymphoma	1
+1254	2021.0	Non-Small Cell Lung Cancer (NSCLC)	1
+1255	2021.0	Oropharyngeal Cancer	1
+1256	2021.0	Oropharyngeal Neoplasms	1
+1257	2021.0	Ovarian Cancer	1
+1258	2021.0	Pancreatic Cancer	1
+1259	2021.0	Pancreatic Ductal Carcinoma	1
+1260	2021.0	Paraganglioma	1
+1261	2021.0	Pediatric Progressive Low-grade Gliomas	1
+1262	2021.0	Pediatric Recurrent Progressive Low-grade Gliomas	1
+1263	2021.0	Peutz-Jeghers Syndrome	1
+1264	2021.0	Pheochromocytoma	1
+1265	2021.0	Plasma Cell Leukemia	1
+1266	2021.0	Post Transplant Lymphoproliferative Disorder	1
+1267	2021.0	Primary Mediastinal (Thymic) Large B-cell Lymphoma	1
+1268	2021.0	Primary Peritoneal Cancer	1
+1269	2021.0	Prolymphocytic Leukemia	1
+1270	2021.0	Prostate Adenocarcinoma	1
+1271	2021.0	Recurrent B-Cell Childhood Acute Lymphoblastic Leukemia	1
+1272	2021.0	Recurrent Childhood B-Lymphoblastic Lymphoma	1
+1273	2021.0	Recurrent Nasopharynx Carcinoma	1
+1274	2021.0	Relapsed/Refractory Indolent B Cell Non-Hodgkin Lymphomas	1
+1275	2021.0	Resectable Pancreatic Cancer	1
+1276	2021.0	Retinoblastoma	1
+1277	2021.0	Rhabdomyosarcoma	1
+1278	2021.0	Sarcoma	1
+1279	2021.0	Small Cell Lung Cancer	1
+1280	2021.0	Small Lymphocytic Lymphoma	1
+1281	2021.0	Squamous Cell Carcinoma	1
+1282	2021.0	Stage II Childhood Hodgkin Lymphoma	1
+1283	2021.0	Stage III Childhood Hodgkin Lymphoma	1
+1284	2021.0	Stage IV Childhood Hodgkin Lymphoma	1
+1285	2021.0	TSC1	1
+1286	2021.0	TSC2	1
+1287	2021.0	Triple Negative Breast Cancer	1
+1288	2021.0	Tuberous Sclerosis Complex	1
+1289	2021.0	Unresectable Locally Advanced Invasive Breast Cancer	1
+1290	2021.0	Waldenstrom's Macroglobulinemia	1
+1291	2022.0	Neuroblastoma	5
+1292	2022.0	Breast Cancer	4
+1293	2022.0	Acute Myeloid Leukemia (AML)	3
+1294	2022.0	Prostate Cancer	3
+1295	2022.0	Acute Myeloid Leukemia	2
+1296	2022.0	Diffuse Large B Cell Lymphoma	2
+1297	2022.0	Lymphoblastic Lymphoma	2
+1298	2022.0	Pancreas Cancer	2
+1299	2022.0	Acute Granulocytic Leukemia	1
+1300	2022.0	Acute Lymphocytic Leukemia (ALL)	1
+1301	2022.0	Acute Myelocytic Leukemia	1
+1302	2022.0	Acute Myelogenous Leukemia	1
+1303	2022.0	Acute Non-Lymphocytic Leukemia	1
+1304	2022.0	Brain Tumor - Metastatic	1
+1305	2022.0	Brain and Central Nervous System Tumors	1
+1306	2022.0	Breast Cancer Stage IV	1
+1307	2022.0	Burkitt's Lymphoma	1
+1308	2022.0	Carcinoma, Squamous	1
+1309	2022.0	Cholangiocarcinoma	1
+1310	2022.0	Chronic Lymphocytic Leukemia	1
+1311	2022.0	Chronic Myelogenous Leukemia	1
+1312	2022.0	Colorectal Cancer	1
+1313	2022.0	Ductal Carcinoma in Situ	1
+1314	2022.0	Early Stage Breast Cancer	1
+1315	2022.0	Fallopian Tube Cancer	1
+1316	2022.0	Fatigue Related to Cancer Treatment	1
+1317	2022.0	Follicular Lymphoma	1
+1318	2022.0	Gene Mutation	1
+1319	2022.0	Germline Mutation Carrier	1
+1320	2022.0	High Risk Prostate Cancer	1
+1321	2022.0	Histiocytic Sarcoma (HS)	1
+1322	2022.0	Histiocytoses Erdheim-chester Disease	1
+1323	2022.0	Human Epidermal Growth Factor 2 Negative Carcinoma of Breast	1
+1324	2022.0	Inflammatory Breast Cancer	1
+1325	2022.0	Invasive Breast Cancer (Stage I-III)	1
+1326	2022.0	Langerhans Cell Histiocytosis (LCH)	1
+1327	2022.0	Leukemia	1
+1328	2022.0	Leukemia, Acute Myelogenous	1
+1329	2022.0	Lobular Carcinoma	1
+1330	2022.0	Lobular Carcinoma in Situ	1
+1331	2022.0	Lymphoma	1
+1332	2022.0	Lymphoplasmacytic Lymphoma	1
+1333	2022.0	Lynch Syndrome	1
+1334	2022.0	MTOR	1
+1335	2022.0	Mantle-Cell Lymphoma	1
+1336	2022.0	Marginal Zone B-Cell Lymphoma	1
+1337	2022.0	Mature B-Cell Lymphoma	1
+1338	2022.0	Medulloblastoma	1
+1339	2022.0	Metastatic Hormone-sensitive Prostate Cancer	1
+1340	2022.0	Metastatic Invasive Breast Cancer	1
+1341	2022.0	Metastatic Sarcoma	1
+1342	2022.0	Multiple Myeloma	1
+1343	2022.0	Myelodysplasia	1
+1344	2022.0	Myelodysplastic Syndrome (MDS)	1
+1345	2022.0	Myelofibrosis	1
+1346	2022.0	Myeloid Hematological Malignancies	1
+1347	2022.0	Non-Hodgkin Lymphoma	1
+1348	2022.0	Non-Small Cell Lung Cancer (NSCLC)	1
+1349	2022.0	Oropharyngeal Cancer	1
+1350	2022.0	Oropharyngeal Neoplasms	1
+1351	2022.0	Ovarian Cancer	1
+1352	2022.0	Pancreatic Cancer	1
+1353	2022.0	Pancreatic Ductal Carcinoma	1
+1354	2022.0	Pediatric Progressive Low-grade Gliomas	1
+1355	2022.0	Pediatric Recurrent Progressive Low-grade Gliomas	1
+1356	2022.0	Peutz-Jeghers Syndrome	1
+1357	2022.0	Plasma Cell Leukemia	1
+1358	2022.0	Post Transplant Lymphoproliferative Disorder	1
+1359	2022.0	Primary Mediastinal (Thymic) Large B-cell Lymphoma	1
+1360	2022.0	Primary Peritoneal Cancer	1
+1361	2022.0	Prolymphocytic Leukemia	1
+1362	2022.0	Prostate Adenocarcinoma	1
+1363	2022.0	Recurrent Nasopharynx Carcinoma	1
+1364	2022.0	Resectable Pancreatic Cancer	1
+1365	2022.0	Retinoblastoma	1
+1366	2022.0	Sarcoma	1
+1367	2022.0	Small Cell Lung Cancer	1
+1368	2022.0	Small Lymphocytic Lymphoma	1
+1369	2022.0	Squamous Cell Carcinoma	1
+1370	2022.0	Stage II Childhood Hodgkin Lymphoma	1
+1371	2022.0	Stage III Childhood Hodgkin Lymphoma	1
+1372	2022.0	Stage IV Childhood Hodgkin Lymphoma	1
+1373	2022.0	TSC1	1
+1374	2022.0	TSC2	1
+1375	2022.0	Tuberous Sclerosis Complex	1
+1376	2022.0	Unresectable Locally Advanced Invasive Breast Cancer	1
+1377	2023.0	Neuroblastoma	5
+1378	2023.0	Breast Cancer	3
+1379	2023.0	Acute Myeloid Leukemia (AML)	2
+1380	2023.0	Diffuse Large B Cell Lymphoma	2
+1381	2023.0	Lymphoblastic Lymphoma	2
+1382	2023.0	Pancreas Cancer	2
+1383	2023.0	Acute Lymphocytic Leukemia (ALL)	1
+1384	2023.0	Acute Myeloid Leukemia	1
+1385	2023.0	Brain and Central Nervous System Tumors	1
+1386	2023.0	Burkitt's Lymphoma	1
+1387	2023.0	Carcinoma, Squamous	1
+1388	2023.0	Chronic Lymphocytic Leukemia	1
+1389	2023.0	Chronic Myelogenous Leukemia	1
+1390	2023.0	Colorectal Cancer	1
+1391	2023.0	Early Stage Breast Cancer	1
+1392	2023.0	Follicular Lymphoma	1
+1393	2023.0	Gene Mutation	1
+1394	2023.0	Germline Mutation Carrier	1
+1395	2023.0	Human Epidermal Growth Factor 2 Negative Carcinoma of Breast	1
+1396	2023.0	Inflammatory Breast Cancer	1
+1397	2023.0	Leukemia	1
+1398	2023.0	Leukemia, Acute Myelogenous	1
+1399	2023.0	Lymphoma	1
+1400	2023.0	Lymphoplasmacytic Lymphoma	1
+1401	2023.0	Lynch Syndrome	1
+1402	2023.0	Mantle-Cell Lymphoma	1
+1403	2023.0	Marginal Zone B-Cell Lymphoma	1
+1404	2023.0	Medulloblastoma	1
+1405	2023.0	Multiple Myeloma	1
+1406	2023.0	Myelodysplasia	1
+1407	2023.0	Myelodysplastic Syndrome (MDS)	1
+1408	2023.0	Myelofibrosis	1
+1409	2023.0	Myeloid Hematological Malignancies	1
+1410	2023.0	Non-Hodgkin Lymphoma	1
+1411	2023.0	Oropharyngeal Cancer	1
+1412	2023.0	Oropharyngeal Neoplasms	1
+1413	2023.0	Pancreatic Cancer	1
+1414	2023.0	Peutz-Jeghers Syndrome	1
+1415	2023.0	Plasma Cell Leukemia	1
+1416	2023.0	Post Transplant Lymphoproliferative Disorder	1
+1417	2023.0	Primary Mediastinal (Thymic) Large B-cell Lymphoma	1
+1418	2023.0	Prolymphocytic Leukemia	1
+1419	2023.0	Prostate Cancer	1
+1420	2023.0	Sarcoma	1
+1421	2023.0	Small Lymphocytic Lymphoma	1
+1422	2023.0	Squamous Cell Carcinoma	1
+1423	2023.0	Stage II Childhood Hodgkin Lymphoma	1
+1424	2023.0	Stage III Childhood Hodgkin Lymphoma	1
+1425	2023.0	Stage IV Childhood Hodgkin Lymphoma	1
+1426	2024.0	Neuroblastoma	4
+1427	2024.0	Acute Myeloid Leukemia	1
+1428	2024.0	Breast Cancer	1
+1429	2024.0	Colorectal Cancer	1
+1430	2024.0	Diffuse Large B Cell Lymphoma	1
+1431	2024.0	Leukemia	1
+1432	2024.0	Lymphoblastic Lymphoma	1
+1433	2024.0	Medulloblastoma	1
+1434	2024.0	Myeloid Hematological Malignancies	1
+1435	2024.0	Pancreas Cancer	1
+1436	2024.0	Pancreatic Cancer	1
+1437	2024.0	Post Transplant Lymphoproliferative Disorder	1
+1438	2024.0	Primary Mediastinal (Thymic) Large B-cell Lymphoma	1
+1439	2024.0	Prostate Cancer	1
+1440	2024.0	Sarcoma	1
+1441	2024.0	Stage II Childhood Hodgkin Lymphoma	1
+1442	2024.0	Stage III Childhood Hodgkin Lymphoma	1
+1443	2024.0	Stage IV Childhood Hodgkin Lymphoma	1
+1444	2025.0	Neuroblastoma	3
+1445	2025.0	Breast Cancer	1
+1446	2025.0	Colorectal Cancer	1
+1447	2025.0	Diffuse Large B Cell Lymphoma	1
+1448	2025.0	Leukemia	1
+1449	2025.0	Lymphoblastic Lymphoma	1
+1450	2025.0	Medulloblastoma	1
+1451	2025.0	Myeloid Hematological Malignancies	1
+1452	2025.0	Post Transplant Lymphoproliferative Disorder	1
+1453	2025.0	Primary Mediastinal (Thymic) Large B-cell Lymphoma	1
+1454	2025.0	Prostate Cancer	1
+1455	2025.0	Sarcoma	1
+1456	2025.0	Stage II Childhood Hodgkin Lymphoma	1
+1457	2025.0	Stage III Childhood Hodgkin Lymphoma	1
+1458	2025.0	Stage IV Childhood Hodgkin Lymphoma	1
+1459	2026.0	Neuroblastoma	3
+1460	2026.0	Breast Cancer	1
+1461	2026.0	Colorectal Cancer	1
+1462	2026.0	Diffuse Large B Cell Lymphoma	1
+1463	2026.0	Leukemia	1
+1464	2026.0	Lymphoblastic Lymphoma	1
+1465	2026.0	Medulloblastoma	1
+1466	2026.0	Myeloid Hematological Malignancies	1
+1467	2026.0	Post Transplant Lymphoproliferative Disorder	1
+1468	2026.0	Primary Mediastinal (Thymic) Large B-cell Lymphoma	1
+1469	2026.0	Prostate Cancer	1
+1470	2026.0	Sarcoma	1
+1471	2027.0	Neuroblastoma	2
+1472	2027.0	Breast Cancer	1
+1473	2027.0	Colorectal Cancer	1
+1474	2027.0	Leukemia	1
+1475	2027.0	Lymphoblastic Lymphoma	1
+1476	2027.0	Myeloid Hematological Malignancies	1
+1477	2027.0	Prostate Cancer	1
+1478	2027.0	Sarcoma	1
+1479	2028.0	Neuroblastoma	2
+1480	2028.0	Breast Cancer	1
+1481	2028.0	Colorectal Cancer	1
+1482	2028.0	Leukemia	1
+1483	2028.0	Prostate Cancer	1
+1484	2028.0	Sarcoma	1
+1485	2029.0	Neuroblastoma	2
+1486	2029.0	Breast Cancer	1
+1487	2029.0	Leukemia	1
+1488	2029.0	Prostate Cancer	1
+1489	2029.0	Sarcoma	1
+1490	2030.0	Neuroblastoma	2
+1491	2030.0	Breast Cancer	1
+1492	2030.0	Leukemia	1
+1493	2030.0	Prostate Cancer	1
+1494	2030.0	Sarcoma	1
+1495	2031.0	Leukemia	1
+1496	2031.0	Prostate Cancer	1
+1497	2032.0	Leukemia	1
+1498	2032.0	Prostate Cancer	1
+1499	2033.0	Leukemia	1
+1500	2033.0	Prostate Cancer	1
+1501	2034.0	Prostate Cancer	1
+1502	2035.0	Prostate Cancer	1
